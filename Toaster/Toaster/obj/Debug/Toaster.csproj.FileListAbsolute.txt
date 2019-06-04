@@ -1,0 +1,12 @@
+C:\Users\brude\Source\Repos\Toaster\Toaster\bin\Debug\Toaster.exe.config
+C:\Users\brude\Source\Repos\Toaster\Toaster\bin\Debug\Toaster.exe
+C:\Users\brude\Source\Repos\Toaster\Toaster\bin\Debug\Toaster.pdb
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.csprojAssemblyReference.cache
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.Form1.resources
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.Form2.resources
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.Form3.resources
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.Properties.Resources.resources
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.csproj.GenerateResource.cache
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.csproj.CoreCompileInputs.cache
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.exe
+C:\Users\brude\Source\Repos\Toaster\Toaster\obj\Debug\Toaster.pdb
